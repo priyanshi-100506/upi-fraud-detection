@@ -91,7 +91,7 @@ The system tracks risk as a continuous variable. This visual demonstrates how us
 
 Final model outputs are bucketed into actionable risk levels to separate legitimate transactions from potential fraud.
 
-<img width="691" height="470" alt="upi_15" src="https://github.com/user-attachments/assets/0da995ae-7566-41dd-9ace-61b34746b9ca" />
+<img width="456" height="337" alt="image" src="https://github.com/user-attachments/assets/bde15a33-e1e1-4f46-92a3-74eb2301af9a" />
 
 
 ---
