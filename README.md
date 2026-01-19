@@ -100,15 +100,9 @@ Final model outputs are bucketed into actionable risk levels to separate legitim
 
 * 
 **Core**: Python, Pandas, Scikit-learn 
-
-
 * 
 **Deep Learning**: TensorFlow/Keras (Temporal CNN) 
-
-
 * 
 **Visualization**: Matplotlib, Seaborn 
-
-
 * 
 **Environment**: Google Colab
